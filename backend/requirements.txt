@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+Pillow 
+google-generativeai 
+redis 
+prometheus-fastapi-instrumentator 
+pytest 
+httpx
+python-multipart
+python-dotenv
